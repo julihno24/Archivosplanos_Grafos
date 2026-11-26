@@ -1,0 +1,15 @@
+C:\Projects\ArchivosplanosyGrafos\DeliveryRoutes\bin\Release\net10.0\DeliveryRoutes.exe
+C:\Projects\ArchivosplanosyGrafos\DeliveryRoutes\bin\Release\net10.0\DeliveryRoutes.deps.json
+C:\Projects\ArchivosplanosyGrafos\DeliveryRoutes\bin\Release\net10.0\DeliveryRoutes.runtimeconfig.json
+C:\Projects\ArchivosplanosyGrafos\DeliveryRoutes\bin\Release\net10.0\DeliveryRoutes.dll
+C:\Projects\ArchivosplanosyGrafos\DeliveryRoutes\bin\Release\net10.0\DeliveryRoutes.pdb
+C:\Projects\ArchivosplanosyGrafos\DeliveryRoutes\obj\Release\net10.0\DeliveryRoutes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\ArchivosplanosyGrafos\DeliveryRoutes\obj\Release\net10.0\DeliveryRoutes.AssemblyInfoInputs.cache
+C:\Projects\ArchivosplanosyGrafos\DeliveryRoutes\obj\Release\net10.0\DeliveryRoutes.AssemblyInfo.cs
+C:\Projects\ArchivosplanosyGrafos\DeliveryRoutes\obj\Release\net10.0\DeliveryRoutes.csproj.CoreCompileInputs.cache
+C:\Projects\ArchivosplanosyGrafos\DeliveryRoutes\obj\Release\net10.0\DeliveryRoutes.sourcelink.json
+C:\Projects\ArchivosplanosyGrafos\DeliveryRoutes\obj\Release\net10.0\DeliveryRoutes.dll
+C:\Projects\ArchivosplanosyGrafos\DeliveryRoutes\obj\Release\net10.0\refint\DeliveryRoutes.dll
+C:\Projects\ArchivosplanosyGrafos\DeliveryRoutes\obj\Release\net10.0\DeliveryRoutes.pdb
+C:\Projects\ArchivosplanosyGrafos\DeliveryRoutes\obj\Release\net10.0\DeliveryRoutes.genruntimeconfig.cache
+C:\Projects\ArchivosplanosyGrafos\DeliveryRoutes\obj\Release\net10.0\ref\DeliveryRoutes.dll
